@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/explore-react-reksamamur/static/css/main.e6c13ad2.css",
+    "main.js": "/explore-react-reksamamur/static/js/main.b575b7e6.js",
+    "static/js/787.24b760c2.chunk.js": "/explore-react-reksamamur/static/js/787.24b760c2.chunk.js",
+    "index.html": "/explore-react-reksamamur/index.html",
+    "main.e6c13ad2.css.map": "/explore-react-reksamamur/static/css/main.e6c13ad2.css.map",
+    "main.b575b7e6.js.map": "/explore-react-reksamamur/static/js/main.b575b7e6.js.map",
+    "787.24b760c2.chunk.js.map": "/explore-react-reksamamur/static/js/787.24b760c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b575b7e6.js"
+  ]
+}
